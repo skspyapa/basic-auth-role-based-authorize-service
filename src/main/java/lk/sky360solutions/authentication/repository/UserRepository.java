@@ -1,6 +1,6 @@
 package lk.sky360solutions.authentication.repository;
 
-import lk.sky360solutions.authorization.role.model.User;
+import lk.sky360solutions.authentication.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
